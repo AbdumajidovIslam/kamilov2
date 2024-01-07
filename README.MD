@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-LCS+tdBDZGcda8eCf+gYr4lS9RVVT50D0FvsVRDEQ3X5B9hqaq94j2Q1xF+fQoIvMiIAko4RtM3XKlVKugxP5Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
 # Привет, я [Ваше Имя]
 
 ## О себе
