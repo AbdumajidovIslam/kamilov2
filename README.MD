@@ -1,7 +1,7 @@
 ## Привет, я Backend разработчик! 👋
 
 <a href="https://www.linkedin.com/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>## Linkedin
+  <img align="left" alt="LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/><b>Linkedin</b>
 </a>
 
 
