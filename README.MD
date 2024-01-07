@@ -37,7 +37,6 @@
 
 ##### JavaScript
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![DOM](https://img.shields.io/badge/DOM-Manipulation-yellow)
 ![JQuery](https://img.shields.io/badge/Jquery-Lib-red)
 ![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-yellow)
 
@@ -49,8 +48,8 @@
 
 ### GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashidov21&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/Rashidov21/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilov2&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidov21&layout=compact&theme=highcontrast)](https://github.com/Rashidov21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilov2&layout=compact&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
