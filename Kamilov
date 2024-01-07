@@ -7,25 +7,26 @@
 
 ## Навыки и Технологии
 ### Языки программирования
-- Python
-- JavaScript
+- <i class="fab fa-python"></i> Python
+- <i class="fab fa-js"></i> JavaScript
 
 ### Frontend
-- HTML, CSS, JavaScript
-- React
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3-alt"></i> CSS
+- <i class="fab fa-react"></i> React
 
 ### Backend
-- Django (Python)
-- Node.js
+- <i class="fab fa-python"></i> Django
+- <i class="fab fa-node-js"></i> Node.js
 
 ### Базы данных
-- PostgreSQL
-- MongoDB
+- <i class="fas fa-database"></i> PostgreSQL
+- <i class="fas fa-database"></i> MongoDB
 
 ### Инструменты и Технологии
-- Git
-- Docker
-- VS Code
+- <i class="fab fa-git"></i> Git
+- <i class="fab fa-docker"></i> Docker
+- <i class="fas fa-code"></i> VS Code
 
 ## Проекты
 1. [Проект 1](ссылка на проект 1) - Краткое описание проекта.
@@ -44,4 +45,3 @@
 
 ## Последние активности на GitHub
 ![Последние активности](https://activity-graph.herokuapp.com/graph?username=ваш_пользователь)
-
