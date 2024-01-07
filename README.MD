@@ -1,4 +1,5 @@
-## Привет, я Backend разработчик! 👋
+## Hello, I'm a Backend Developer! 👋
+
 
 <a href="https://www.linkedin.com/">
   <b>Linkedin</b><img align="left" alt="LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
@@ -9,11 +10,12 @@
 
 ### Обо мне
 
-- 🔭 В настоящее время работаю в **[Naqsh Soft](https://naqshsoft.uz)**
-- 💬 Задавайте мне вопросы о программировании в моем **[Instagram](https://www.instagram.com/)**
+- 🔭 Currently working at Naqsh Soft **[Naqsh Soft](https://naqshsoft.uz)**
+- 💬 Feel free to ask me anything about programming on my Instagram **[Instagram](https://www.instagram.com/)**
 
 
-### Технологический стек
+### Technology Stack
+
 
 #### Back-end
 
@@ -39,7 +41,6 @@
 ##### JavaScript
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![JQuery](https://img.shields.io/badge/Jquery-Lib-red)
-![Javascript Libs](https://img.shields.io/badge/Javascript-Libs-yellow)
 
 #### Tools
 
