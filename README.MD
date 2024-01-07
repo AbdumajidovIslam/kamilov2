@@ -1,50 +1,113 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-LCS+tdBDZGcda8eCf+gYr4lS9RVVT50D0FvsVRDEQ3X5B9hqaq94j2Q1xF+fQoIvMiIAko4RtM3XKlVKugxP5Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your GitHub README</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-LCS+tdBDZGcda8eCf+gYr4lS9RVVT50D0FvsVRDEQ3X5B9hqaq94j2Q1xF+fQoIvMiIAko4RtM3XKlVKugxP5Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f7f7f7;
+            margin: 20px;
+        }
 
+        h1 {
+            color: #0366d6;
+        }
 
-# Привет, я [Ваше Имя]
+        h2 {
+            color: #6f42c1;
+        }
 
-## О себе
-- 🌍 Проживаю в [Ваш город, страна]
-- 🎓 Студент/Работаю в [Ваше место учебы/работы]
-- 📚 Учусь/Работаю в области [Ваша область интересов/специализации]
+        h3 {
+            color: #22863a;
+        }
 
-## Навыки и Технологии
-### Языки программирования
-- <i class="fab fa-python"></i> Python
-- <i class="fab fa-js"></i> JavaScript
+        p {
+            margin-bottom: 10px;
+        }
 
-### Frontend
-- <i class="fab fa-html5"></i> HTML
-- <i class="fab fa-css3-alt"></i> CSS
-- <i class="fab fa-react"></i> React
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
 
-### Backend
-- <i class="fab fa-python"></i> Django
-- <i class="fab fa-node-js"></i> Node.js
+        li {
+            margin-bottom: 5px;
+        }
 
-### Базы данных
-- <i class="fas fa-database"></i> PostgreSQL
-- <i class="fas fa-database"></i> MongoDB
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
 
-### Инструменты и Технологии
-- <i class="fab fa-git"></i> Git
-- <i class="fab fa-docker"></i> Docker
-- <i class="fas fa-code"></i> VS Code
+        a:hover {
+            text-decoration: underline;
+        }
 
-## Проекты
-1. [Проект 1](ссылка на проект 1) - Краткое описание проекта.
-2. [Проект 2](ссылка на проект 2) - Краткое описание проекта.
+        .icon {
+            margin-right: 5px;
+        }
 
-## Связь со мной
-- 📧 Email: [ваш.email@example.com]
-- 💼 LinkedIn: [Ваш профиль LinkedIn]
-- 🐦 Twitter: [@ваш_твиттер]
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
 
-## GitHub Статистика
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш_пользователь)
+        .stat-item {
+            flex: 1;
+            text-align: center;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
 
-## GitHub Языки
-![Top Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_пользователь)
+    <h1>Привет, я [Ваше Имя]</h1>
 
-## Последние активности на GitHub
-![Последние активности](https://activity-graph.herokuapp.com/graph?username=ваш_пользователь)
+    <h2>О себе</h2>
+    <p>🌍 Проживаю в [Ваш город, страна]</p>
+    <p>🎓 Студент/Работаю в [Ваше место учебы/работы]</p>
+    <p>📚 Учусь/Работаю в области [Ваша область интересов/специализации]</p>
+
+    <h2>Навыки и Технологии</h2>
+    <h3>Языки программирования</h3>
+    <ul>
+        <li><i class="fab fa-python icon"></i> Python</li>
+        <li><i class="fab fa-js icon"></i> JavaScript</li>
+    </ul>
+
+    <h3>Frontend</h3>
+    <ul>
+        <li><i class="fab fa-html5 icon"></i> HTML</li>
+        <li><i class="fab fa-css3-alt icon"></i> CSS</li>
+        <li><i class="fab fa-react icon"></i> React</li>
+    </ul>
+
+    <!-- Добавьте другие разделы по аналогии -->
+
+    <h2>GitHub Статистика</h2>
+    <div class="stats">
+        <div class="stat-item">
+            <h3>Статистика</h3>
+            <img src="https://github-readme-stats.vercel.app/api?username=ваш_пользователь" alt="GitHub Stats">
+        </div>
+        <div class="stat-item">
+            <h3>Топ языки</h3>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_пользователь" alt="Top Languages">
+        </div>
+    </div>
+
+    <h2>Последние активности на GitHub</h2>
+    <img src="https://activity-graph.herokuapp.com/graph?username=ваш_пользователь" alt="GitHub Activity Graph">
+
+</body>
+</html>
