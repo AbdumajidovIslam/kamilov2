@@ -1,9 +1,9 @@
-## Hi there 👋 I'm a Full-Stack developer
+## Hi there 👋 I'm a Backend developer
 
 
 
-<a href="https://www.linkedin.com/in/rashidov21/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.apple.com%2Fua%2Fapp%2Flinkedin%2Fid288429040%3Fl%3Dru&psig=AOvVaw0tJHluow_Ssv0uEGfSI4hq&ust=1704743477924000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDU1b-GzIMDFQAAAAAdAAAAABAD" />
 </a>
 
 </br>
