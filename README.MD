@@ -10,7 +10,7 @@
 
 ### Обо мне
 
-- 🔭 Currently working at Naqsh Soft **[Naqsh Soft](https://naqshsoft.uz)**
+- 🔭 Currently working at **[Naqsh Soft](https://naqshsoft.uz)**
 - 💬 Feel free to ask me anything about programming on my Instagram **[Instagram](https://www.instagram.com/)**
 
 
