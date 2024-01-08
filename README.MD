@@ -54,4 +54,4 @@
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javlon1&layout=compact&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilov2&layout=compact&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
