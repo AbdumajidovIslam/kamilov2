@@ -50,7 +50,7 @@
 
 ### GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilov2&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Javlon1&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
 
 ### Top Langs
 
