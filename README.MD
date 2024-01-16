@@ -51,6 +51,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=kamilov2) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamilov2&show_icons=true&locale=en" alt="kamilov2" /></p>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilov2&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
 
