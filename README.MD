@@ -6,13 +6,14 @@
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 </br>
-<a href="https://www.linkedin.com/">
-  <b>Linkedin</b><img align="left" alt="LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
+
 ### About me
 
 - 🔭 Currently working at **[Naqsh Soft](https://naqshsoft.uz)**
-- 💬 Feel free to ask me anything about programming on my Instagram **[Instagram](https://www.instagram.com/)**
+- 💬 Feel free to ask me anything about programming on my Instagram **[Instagram](https://www.instagram.com/kamilov__jasur)**
+<a href="https://www.linkedin.com/">
+  <b>Linkedin</b><img align="left" alt="LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
 
 
 ### Technology Stack
