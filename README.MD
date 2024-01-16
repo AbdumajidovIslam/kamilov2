@@ -53,8 +53,7 @@
 ### GitHub Stats
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamilov2&show_icons=true&locale=en" alt="kamilov2" /></p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilov2&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilov2&layout=compact&theme=highcontrast)](https://github.com/kamilov2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilov2&layout=compact)](https://github.com/kamilov2/github-readme-stats)
