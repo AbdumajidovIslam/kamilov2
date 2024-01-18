@@ -1,10 +1,23 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kamilov+Jasur;CYBER+SECURITY+ENTHUSIAST;I+am+backend+developer)](https://git.io/typing-svg)
 </br>
+### Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamilov_jasur)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamilov__jasur/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilov2&label=Profile%20views&color=0e75b6&style=flat" alt="kamilov2" /> </p>
 
+### 📊 Github stats
 
-<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
+<p>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=javlon1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="javlon1 Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=javlon1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=javlon1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="javlon1 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=javlon1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+</p>
+
+
 </br>
 
 ### About me
