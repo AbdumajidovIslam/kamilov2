@@ -12,10 +12,10 @@
 ### 📊 Github stats
 
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=javlon1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="javlon1 Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=javlon1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=javlon1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="javlon1 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=javlon1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=kamilov2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="Kamilov Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=kamilov2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kamilov2&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="kamilov2 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kamilov2&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
 
 
@@ -24,7 +24,6 @@
 ### About me
 
 - 🔭 Currently working at **[Naqsh Soft](https://naqshsoft.uz)**
-- 💬 Feel free to ask me anything about programming on my Instagram **[Instagram](https://www.instagram.com/kamilov__jasur)**
 <a href="https://www.linkedin.com/">
   <b>Linkedin</b><img align="left" alt="LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
@@ -64,10 +63,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### GitHub Stats
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamilov2&show_icons=true&locale=en" alt="kamilov2" /></p>
-
-
-### Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilov2&layout=compact)](https://github.com/kamilov2/github-readme-stats)
