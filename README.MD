@@ -48,7 +48,7 @@
 #### Front-end
 
 ##### Main
-![HTML](https://img.shields.io/badge/HTML-5-informational?style=flat-square&logo=HTML)
+![HTML](https://img.shields.io/badge/HTML-5-informational)
 ![CSS](https://img.shields.io/badge/CSS-3-informational)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-orange)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-orange)
